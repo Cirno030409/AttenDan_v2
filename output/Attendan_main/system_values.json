@@ -1,0 +1,5 @@
+{
+    "system_version" : "1.0.8",
+    "release_notes" : "[release notes]\n\n- カードタッチに対するレスポンスが向上\n- 挨拶音声の追加\n- 待ち受け画面の改善\n- ライセンス,コピーライト表記の追加\n- システム設定の追加",
+    "git_api_url" : "https://api.github.com/repos/Cirno030409/AttenDan_release/releases"
+}
